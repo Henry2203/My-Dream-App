@@ -1,7 +1,28 @@
 .app-servers {
-  background-color: #000000;
+    background-color: #000000;
 }
 
 .app-servers * {
-  color: bisque;
+    color: bisque;
+}
+
+.form-control {
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid blue;
+    color: rgb(109, 109, 109) !important;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.btn-primary {
+    padding: 10px;
+    background-color: blue !important;
+    border-radius: 5px;
+}
+
+button:enabled {
+    background-color: rgb(89, 89, 255) !important;
 }
