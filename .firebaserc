@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-dream-app-d934f": {
+      "hosting": {
+        "my-dream-app": [
+          "my-dream-app-d934f"
+        ]
+      }
+    }
+  }
+}
